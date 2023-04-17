@@ -71,3 +71,20 @@ table {
 .background {
   background-color: rgba(31, 208, 252, 0.425);
 }
+.endings {
+  background-image: url(../img/monitor.jpg);
+  height: 200px;
+  width: 250px;
+  background-position: center;
+}
+.ending {
+  background-image: url(../img/graph.jpg);
+  height: 200px;
+  width: 250px;
+  background-position: center;
+}
+.footerp {
+  color: white;
+  font-size: 24px;
+  padding: 7px 0px 0px 7px;
+}
