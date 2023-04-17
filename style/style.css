@@ -2,7 +2,7 @@ body {
   margin: 0 0;
 }
 .container {
-  max-width: 1180px;
+  max-width: 1280px;
   margin: auto;
 }
 #top-logo {
@@ -14,4 +14,22 @@ body {
   background-image: url(../img/pattern.png);
   background-size: 410px;
   background-color: rgb(95, 178, 255);
+}
+h1 {
+  font-size: 45px;
+  margin-bottom: 0;
+}
+#top-link {
+  text-decoration: none;
+  color: rgb(95, 178, 255);
+}
+.underh1 {
+  margin: 0 0;
+  font-size: 25px;
+}
+.date {
+  margin: 0 0;
+}
+.p1 {
+  color: rgb(114, 114, 114);
 }
