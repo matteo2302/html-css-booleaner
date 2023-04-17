@@ -46,9 +46,13 @@ h1 {
   margin-top: 0px;
   font-size: 13px;
 }
-.photo-des {
+.font {
   font-size: 20px;
 }
 .sottolineato {
   background-color: yellow;
+}
+.list {
+  margin-left: 0px;
+  padding-left: 20px;
 }
