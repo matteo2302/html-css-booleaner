@@ -47,7 +47,7 @@ h1 {
   font-size: 13px;
 }
 .font {
-  font-size: 20px;
+  font-size: 18px;
 }
 .sottolineato {
   background-color: yellow;
@@ -55,4 +55,19 @@ h1 {
 .list {
   margin-left: 0px;
   padding-left: 20px;
+}
+.table-top {
+  color: white;
+  background-color: rgb(61, 178, 255);
+  border: none;
+  padding: 0px;
+}
+.first-half {
+  width: 25%;
+}
+table {
+  border-collapse: collapse;
+}
+.background {
+  background-color: rgba(31, 208, 252, 0.425);
 }
