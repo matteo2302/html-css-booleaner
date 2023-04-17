@@ -1,0 +1,17 @@
+body {
+  margin: 0 0;
+}
+.container {
+  max-width: 1180px;
+  margin: auto;
+}
+#top-logo {
+  height: 80px;
+  padding: 20px 20px 20px 0px;
+}
+#top-background {
+  margin-top: 0 0;
+  background-image: url(../img/pattern.png);
+  background-size: 410px;
+  background-color: rgb(95, 178, 255);
+}
